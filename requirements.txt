@@ -1,0 +1,6 @@
+# No Python packages are required for this script.
+# Make sure the following external tools are installed on your system:
+# subfinder
+# haktrails
+# assetfinder
+# httpx
