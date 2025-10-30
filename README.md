@@ -39,7 +39,7 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 ```
 ## Usage
 
-Run the script using: ```python3 enumerate.py```     
+Run the script using: ```python3 subrecon.py```     
 Then enter your target domain when prompted: ```Enter your domain name:``` `example.com`    
 
 ## Output:
